@@ -3,7 +3,6 @@ import random
 inventory = [("Torch", "Tool"), ("Map", "Navigation"), ("Rope", "Tool")]
 loot_items = (("Gold Coin", "Currency"), ("Magic Scroll", "Magic"))
 
-# Tuple of classes: (name, health, attack)
 character_classes = (
     ("Warrior", 100, 20),
     ("Mage", 70, 15),
